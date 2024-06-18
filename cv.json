@@ -1,0 +1,248 @@
+{
+  "basics": {
+    "name": "Derian Fabricio Nazareno Mendez",
+    "label": "Full Stack Developer",
+    "image": "/me.webp",
+    "email": "derian.nazareno@hotmail.com",
+    "phone": "+593 939165719",
+    "url": "https://resilient-caramel-3c6928.netlify.app/",
+    "summary": "Ingeniero en Sistemas de la informacion de Quito, Ecuador. Especializado en desarrollo full stack con más de un año de experiencia en la creación de aplicaciones web.",
+    "location": {
+      "address": "Belisario Peña Ponce y De los Algarrobos",
+      "postalCode": "170502",
+      "city": "Quito",
+      "countryCode": "EC",
+      "region": "Ecuador"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Derian Nazareno",
+        "url": "https://www.linkedin.com/in/derian-fabricio-nazareno-mendez-9a2968228/"
+      },
+      {
+        "network": "X",
+        "username": "Derian1717",
+        "url": "https://x.com/derian1717"
+      },
+      {
+        "network": "GitHub",
+        "username": "DerianDev17",
+        "url": "https://github.com/deriandev17"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Eus3 Preuniversitario",
+      "position": "Desarrollador Web full stack jr ",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2022-12-15",
+      "endDate": "2023-07-09",
+      "summary": "Durante mi pasantía, desarrollé una plataforma web utilizando Laravel. Este proyecto no solo demostró mis habilidades técnicas en la creación de aplicaciones web robustas y escalables, sino que también me permitió obtener un puesto de trabajo en la institución.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Fundación Tejiendo Conocimiento",
+      "position": "Desarrollador Web full stack",
+      "url": "https://fundaciontejiendoconocimiento.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-07-28",
+      "summary": "Desarrollé y mantuve páginas web, asegurando su funcionalidad y rendimiento óptimo. Creé aplicaciones móviles y web, proporcionando soluciones innovadoras y eficientes.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Tecnológica Israel",
+    "url": "https://www.uisrael.edu.ec/",
+    "area": "Ingeniería en sistemas de la información",
+    "studyType": "Bachelor",
+    "startDate": "2018-04-01",
+    "endDate": "2024-03-28",
+    "score": "8.55",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "SCRUM FOUNDATION PROFESSIONAL CERTIFICATE",
+    "date": "2021-10-26",
+    "issuer": "CERTIPROF"
+    
+  },
+  {
+    "name": "CCNAV7: SWITCHING, ROUTING, AND WIRELESS ESSENTIALS",
+    "date": "2023-03-31",
+    "issuer": "CISCO NETWORKING ACADEMY®"
+    
+  },
+  {
+    "name": "IT ESSENTIALS: PC HARDWARE AND SOFTWARE",
+    "date": "2021-04-21",
+    "issuer": "CISCO NETWORKING ACADEMY®"
+    
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Java| Framework"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "intermedio",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "SpiritGear",
+      "isActive": false,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "github": "https://github.com/DerianDev17/SpiritGear"
+    },
+    {
+      "name": "plataforma-laravel",
+      "isActive": false,
+      "description": "Plataforma Estudiantil desarrollada para un Preuniversitario",
+      "highlights": [
+        "Multidioma",
+        "PHP & Laravel"
+      ],
+      "url": "",
+      "github": "https://github.com/DerianDev17/plataforma-laravel"
+    },
+    {
+      "name": "Simulador Estudiantil",
+      "isActive": true,
+      "description": "Es una aplicación web en PHP diseñada para simular un sistema de cuestionarios.",
+      "highlights": [
+        "permite a los usuarios completar cuestionarios fácilmente"
+        
+      ],
+      "url": "https://simuladorderian.000webhostapp.com/",
+      "github": "https://github.com/DerianDev17/simulador-php"
+    }
+    
+  ]
+}
