@@ -214,9 +214,9 @@
     {
       "name": "SpiritGear",
       "isActive": false,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "El proyecto SpiritGear es una aplicación desarrollada en Java que se centra en la gestión",
       "highlights": [
-        "Elige tu propia aventura",
+        "Uso de frameworks modernos",
         "En desarrollo"
       ],
       "github": "https://github.com/DerianDev17/SpiritGear"
