@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
+
 <h2>
     <em></em> minimalista maquetado para web y pdf
 </h2>
@@ -24,10 +24,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
     <span>&nbsp;✦&nbsp;</span>
     <a href="#🧞-comandos">
         Comandos
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑-licencia">
-        Licencia
     </a>
     <span>&nbsp;✦&nbsp;</span>
     <a href="https://midu.dev">
@@ -88,9 +84,6 @@ pnpm dev
 
 
 
-## 🔑 Licencia
-
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
 
 
 
